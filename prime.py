@@ -1,6 +1,7 @@
 """Author:RYM
 Developer:RYM
-Date: 02-01-2023"""
+Date: 02-01-2023
+Day: Monday"""
 
 number = int(input("Enter Number:\n"))
 
