@@ -1,0 +1,2 @@
+Hello riyaj, this is git tutorial
+learning skipping staging area with tracked files and untracked files
